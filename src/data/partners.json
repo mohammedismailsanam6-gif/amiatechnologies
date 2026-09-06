@@ -1,0 +1,5 @@
+[
+  { "id": "b1", "name": "HP", "logo": "hp-logo.png" },
+  { "id": "b2", "name": "Dell", "logo": "dell-logo.png" },
+  { "id": "b3", "name": "Logitech", "logo": "logitech-logo.png" }
+]
